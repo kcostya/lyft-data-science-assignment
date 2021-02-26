@@ -1,7 +1,7 @@
 # Lyft Data Science Assignment
 Rider Cancellations create bad experiences for both Drivers and Riders on the Lyft platform and impact Lyft financially. This analysis aims to explore and analyze the rider cancellation data and randomized experiment data to help develop Lyft Cancellation Fee policy.
 
-The attached notebook uses very basic Exploratory Data Analysis technics and focuses on demonstrating the application of [Bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)) and [Delta Method](https://dl.acm.org/doi/10.1145/3219819.3219919) for A/B testing, as well as proper use of [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression) for factor analysis.
+The attached notebook uses basic Exploratory Data Analysis technics and focuses on demonstrating the application of [Bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)) and [Delta Method](https://dl.acm.org/doi/10.1145/3219819.3219919) for A/B testing, as well as proper use of [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression) for factor analysis.
 
 **Ride Data**
 1. `ride_id` - Unique identifier for the ride request.
